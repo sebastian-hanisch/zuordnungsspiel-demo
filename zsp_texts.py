@@ -51,7 +51,7 @@ GLOSSARY_MARKDOWN = """\
 |---|---|
 | **Paarwert** w_ij | Was Ladung i und Lkw j zusammen mehr erwirtschaften als einzeln (gedacht als Erlös minus Fahrkosten). Nicht gepaart zu bleiben bringt 0. |
 | **Wert einer Koalition** v(S) | Das beste Matching, das nur Mitglieder von S benutzt. v(N) ist der Wert aller Spieler zusammen und wird aufgeteilt. |
-| **Kern** | Alle Aufteilungen von v(N), bei denen keine Gruppe von Spielern allein mehr erreichen könnte, als sie bekommt. Hier ist er nie leer. |
+| **Kern** (englisch Core) | Alle Aufteilungen von v(N), bei denen keine Gruppe von Spielern allein mehr erreichen könnte, als sie bekommt. Hier ist er nie leer. |
 | **Blockierendes Paar** | Ein Paar aus Ladung und Lkw, das zusammen mehr schaffen würde, als beide in der Aufteilung bekommen: Die Aufteilung ist dann nicht stabil. |
 | **Shapley-Wert** | Der Mittelwert des Beitrags eines Spielers über alle Reihenfolgen, in denen die Koalition wächst („fair“ im Sinne der Gleichbehandlung). Er muss nicht stabil sein. |
 | **Preis (Dualpreis)** | Der Betrag y_j eines Lkw; der Überschuss einer Ladung ist dann der Wert ihres besten Lkw minus dessen Preis. Ein Kernpunkt entspricht genau solchen Preisen. |
